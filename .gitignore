@@ -1,0 +1,8 @@
+build/
+.vs/
+out/
+review/
+*.log
+build-log.txt
+test-log.txt
+review-shot.png
